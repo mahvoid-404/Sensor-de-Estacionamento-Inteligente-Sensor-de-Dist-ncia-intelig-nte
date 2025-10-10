@@ -1,0 +1,9 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+Espressif ESP32 Azure IoT Kit Sensors
+Adafruit SSD1306
+digitalWriteFast
+pulseInput
+LiquidCrystal I2C
+NewPing
